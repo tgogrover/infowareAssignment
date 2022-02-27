@@ -1,0 +1,35 @@
+{
+  "name": "infoware_assignment",
+  "version": "1.0.0",
+  "description": "\"E-commerce website backend using nodejs expressjs mongoosejs and other npm pakages\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\"jwt",
+    "bcrypt",
+    "mongoosejs",
+    "slugify",
+    "multer",
+    "short-id",
+    "and",
+    "several",
+    "other",
+    "npm",
+    "pakages\""
+  ],
+  "author": "Tushar Grover",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.12.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.13.3",
+    "multer": "^1.4.2",
+    "node-localstorage": "^2.2.1",
+    "shortid": "^2.2.16"
+  }
+}
